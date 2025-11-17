@@ -1,0 +1,81 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+.card {
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+
+.form-header {
+    background-color: #f5f5f5; /* Warna latar belakang yang lebih terang */
+    padding: 10px; 
+    padding-bottom: 10px;
+    border-radius: 5px 5px 0 0; /* Sudut melengkung hanya di bagian atas */
+    margin-bottom: 10px; /* Menghapus celah antara header dan form section */
+    margin-right: -20px;
+    margin-left: 5px;
+    margin-top: -10px;
+    z-index: 1000;
+    border: 1px solid #ddd;
+    padding-right: 50px;
+
+}
+.form-title {
+    margin: 0; /* Hilangkan margin default */
+    font-size: 18px;
+    font-weight: bold;
+    color: #333; /* Warna teks */
+    font-family: monospace;
+    padding-bottom: -10px;
+    padding : 5px;
+    padding-left: 20px;
+}
+
+.form-section {
+    background-color: #fff;
+    padding: 200px;
+    padding-top: 60px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-left : 10px;
+    margin-top: 300px;  /* Pertahankan margin atas */
+    margin-right: -300px;
+    margin-bottom: -100px;  
+}
+
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #343a40;
+}
+
+
+.img-thumbnail {
+    border: 1px solid #ddd; /* Border */
+    border-radius: 4px; /* Sudut melingkar */
+    padding: 5px; /* Jarak dalam gambar */
+    margin: 5px; /* Jarak luar gambar */
+    width: 150px; /* Lebar tetap */
+    height: 150px; /* Tinggi tetap */
+    object-fit: cover; /* Memastikan gambar proporsional */
+    color: red;
+}
+
+.kostum-details small {
+    display: block;
+    color: #6c757d;
+    font-size: 0.875rem;
+    line-height: 1.2;
+}
+.kostum-details i {
+    margin-right: 6px;
+}
+.styleAja{
+    font-family: 'arial', sans-serif;
+    font-weight: 400;
+}

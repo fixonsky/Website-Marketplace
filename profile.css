@@ -1,0 +1,71 @@
+.text-form {
+    margin-bottom: 10px;
+    font-weight: bold;
+    display: block;
+}
+
+#photo-preview {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    padding-bottom : -30px;
+}
+
+#toko-preview {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+}
+
+.btn-primary {
+    background-color: #6c757d;
+    border: none;
+    margin-top : 50px;
+}
+
+.btn-primary:hover {
+    background-color: #5a6268;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+}
+
+.input-group-text {
+    background-color: #f8f9fa;
+}
+
+.form-header {
+    background-color: #f5f5f5; /* Warna latar belakang yang lebih terang */
+    padding: 10px; 
+    padding-bottom: 10px;
+    border-radius: 5px 5px 0 0; /* Sudut melengkung hanya di bagian atas */
+    margin-bottom: 10px; /* Menghapus celah antara header dan form section */
+    margin-right: -20px;
+    margin-left: 5px;
+    margin-top: -10px;
+    z-index: 1000;
+    border: 1px solid #ddd;
+    padding-right: 50px;
+
+}
+.form-title {
+    margin: 0; /* Hilangkan margin default */
+    font-size: 18px;
+    font-weight: bold;
+    color: #333; /* Warna teks */
+    font-family: monospace;
+    padding-bottom: -10px;
+    padding : 5px;
+    padding-left: 20px;
+}

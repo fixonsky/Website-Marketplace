@@ -1,0 +1,182 @@
+[2025-04-20 11:28:41] ========== Memulai Proses Unggah ==========
+[2025-04-20 11:28:41] Session ID: h93iu2srqvi7u8dopdbb3q0ook
+[2025-04-20 11:28:41] POST Data: Array
+(
+    [id] => 134
+)
+
+[2025-04-20 11:28:41] SESSION Data: Array
+(
+    [id_user] => 41
+    [email] => leekesyaaaa@gmail.com
+    [id_level] => 2
+    [user_type] => akun_toko
+    [cart] => Array
+        (
+            [44] => Array
+                (
+                )
+
+            [45] => Array
+                (
+                    [128] => 1
+                    [127] => 1
+                )
+
+        )
+
+)
+
+[2025-04-20 11:28:41] Mencoba mengunggah kostum ID: 134 untuk user ID: 41
+[2025-04-20 11:28:41] Transaksi database dimulai
+[2025-04-20 11:28:41] Jumlah data ditemukan: 1
+[2025-04-20 11:28:41] Menjalankan query: INSERT INTO published_kostum (id_kostum, published_at) VALUES (?, NOW()) ON DUPLICATE KEY UPDATE published_at = NOW() dengan id_kostum: 134
+[2025-04-20 11:28:41] Berhasil mempublikasikan kostum
+[2025-04-20 11:28:41] Menjalankan query: DELETE FROM form_katalog WHERE id = ? AND id_user = ? dengan id: 134, user_id: 41
+[2025-04-20 11:28:41] ERROR: Gagal menghapus dari draft: Cannot delete or update a parent row: a foreign key constraint fails (`daftar_akun`.`published_kostum`, CONSTRAINT `published_kostum_ibfk_1` FOREIGN KEY (`id_kostum`) REFERENCES `form_katalog` (`id`))
+[2025-04-20 11:28:41] ========== Akhir Proses Unggah ==========
+
+[2025-04-20 11:36:50] ========== Memulai Proses Unggah ==========
+[2025-04-20 11:36:50] Mencoba mengunggah kostum ID: 133 untuk user ID: 41
+[2025-04-20 11:36:50] Transaksi database dimulai
+[2025-04-20 11:36:50] Jumlah data ditemukan: 1
+[2025-04-20 11:45:59] ========== Memulai Proses Unggah ==========
+[2025-04-20 11:45:59] Mengunggah kostum ID: 133 untuk user ID: 41
+[2025-04-20 11:45:59] ========== Akhir Proses Unggah ==========
+
+[2025-04-20 12:03:07] ========== Memulai Proses Unggah ==========
+[2025-04-20 12:03:07] Mengunggah kostum ID: 134 untuk user ID: 41
+[2025-04-20 12:03:07] ERROR: Prepare statement gagal: Unknown column 'status' in 'where clause'
+[2025-04-20 12:13:00] ========== Memulai Proses Unggah ==========
+[2025-04-20 12:13:00] Mengunggah kostum ID: 133 untuk user ID: 41
+[2025-04-20 12:13:58] ========== Memulai Proses Unggah ==========
+[2025-04-20 12:13:58] Mengunggah kostum ID: 133 untuk user ID: 41
+[2025-04-20 12:14:18] ========== Memulai Proses Unggah ==========
+[2025-04-20 12:14:18] Mengunggah kostum ID: 133 untuk user ID: 41
+[2025-04-20 12:14:49] ========== Memulai Proses Unggah ==========
+[2025-04-20 12:14:49] Mengunggah kostum ID: 125 untuk user ID: 41
+[2025-04-20 12:30:33] ========== Memulai Proses Unggah ==========
+[2025-04-20 12:30:33] Mengunggah kostum ID: 134 untuk user ID: 41
+[2025-04-20 12:30:51] ========== Memulai Proses Unggah ==========
+[2025-04-20 12:30:51] Mengunggah kostum ID: 132 untuk user ID: 41
+[2025-04-20 12:31:06] ========== Memulai Proses Unggah ==========
+[2025-04-20 12:31:06] Mengunggah kostum ID: 123 untuk user ID: 41
+[2025-04-21 08:10:59] ========== Memulai Proses Unggah ==========
+[2025-04-21 08:10:59] Mengunggah kostum ID: 145 untuk user ID: 42
+[2025-04-24 07:46:30] ========== Memulai Proses Unggah ==========
+[2025-04-24 07:46:30] Mengunggah kostum ID: 149 untuk user ID: 41
+[2025-04-28 03:20:37] ========== Memulai Proses Unggah ==========
+[2025-04-28 03:20:37] Mengunggah kostum ID: 151 untuk user ID: 41
+[2025-04-28 07:44:02] ========== Memulai Proses Unggah ==========
+[2025-04-28 07:44:02] Mengunggah kostum ID: 152 untuk user ID: 42
+[2025-04-28 07:46:32] ========== Memulai Proses Unggah ==========
+[2025-04-28 07:46:32] Mengunggah kostum ID: 127 untuk user ID: 42
+[2025-04-28 07:49:26] ========== Memulai Proses Unggah ==========
+[2025-04-28 07:49:26] Mengunggah kostum ID: 153 untuk user ID: 42
+[2025-04-28 08:59:30] ========== Memulai Proses Unggah ==========
+[2025-04-28 08:59:30] Mengunggah kostum ID: 154 untuk user ID: 42
+[2025-04-29 10:59:55] ========== Memulai Proses Unggah ==========
+[2025-04-29 10:59:55] Mengunggah kostum ID: 159 untuk user ID: 41
+[2025-04-29 11:00:30] ========== Memulai Proses Unggah ==========
+[2025-04-29 11:00:30] Mengunggah kostum ID: 159 untuk user ID: 41
+[2025-04-29 11:00:41] ========== Memulai Proses Unggah ==========
+[2025-04-29 11:00:41] Mengunggah kostum ID: 159 untuk user ID: 41
+[2025-04-29 11:01:00] ========== Memulai Proses Unggah ==========
+[2025-04-29 11:01:00] Mengunggah kostum ID: 159 untuk user ID: 41
+[2025-04-29 11:01:19] ========== Memulai Proses Unggah ==========
+[2025-04-29 11:01:19] Mengunggah kostum ID: 159 untuk user ID: 41
+[2025-04-30 06:35:59] ========== Memulai Proses Unggah ==========
+[2025-04-30 06:35:59] Mengunggah kostum ID: 160 untuk user ID: 41
+[2025-04-30 06:47:49] ========== Memulai Proses Unggah ==========
+[2025-04-30 06:47:49] Mengunggah kostum ID: 160 untuk user ID: 41
+[2025-04-30 06:48:17] ========== Memulai Proses Unggah ==========
+[2025-04-30 06:48:17] Mengunggah kostum ID: 160 untuk user ID: 41
+[2025-04-30 07:05:19] ========== Memulai Proses Unggah ==========
+[2025-04-30 07:05:19] Mengunggah kostum ID: 124 untuk user ID: 41
+[2025-04-30 07:42:51] ========== Memulai Proses Unggah ==========
+[2025-04-30 07:42:51] Mengunggah kostum ID: 133 untuk user ID: 41
+[2025-05-03 14:34:41] ========== Memulai Proses Unggah ==========
+[2025-05-03 14:34:41] Mengunggah kostum ID: 133 untuk user ID: 41
+[2025-05-03 14:36:48] ========== Memulai Proses Unggah ==========
+[2025-05-03 14:36:48] Mengunggah kostum ID: 160 untuk user ID: 41
+[2025-05-03 14:38:09] ========== Memulai Proses Unggah ==========
+[2025-05-03 14:38:09] Mengunggah kostum ID: 154 untuk user ID: 42
+[2025-05-03 14:39:33] ========== Memulai Proses Unggah ==========
+[2025-05-03 14:39:33] Mengunggah kostum ID: 147 untuk user ID: 42
+[2025-05-03 14:52:12] ========== Memulai Proses Unggah ==========
+[2025-05-03 14:52:12] Mengunggah kostum ID: 147 untuk user ID: 42
+[2025-05-03 15:19:04] ========== Memulai Proses Unggah ==========
+[2025-05-03 15:19:04] Mengunggah kostum ID: 159 untuk user ID: 41
+[2025-05-03 16:17:03] ========== Memulai Proses Unggah ==========
+[2025-05-03 16:17:03] Mengunggah kostum ID: 160 untuk user ID: 41
+[2025-05-03 16:22:42] ========== Memulai Proses Unggah ==========
+[2025-05-03 16:22:42] Mengunggah kostum ID: 150 untuk user ID: 41
+[2025-05-03 16:23:23] ========== Memulai Proses Unggah ==========
+[2025-05-03 16:23:23] Mengunggah kostum ID: 149 untuk user ID: 41
+[2025-05-03 16:31:52] ========== Memulai Proses Unggah ==========
+[2025-05-03 16:31:52] Mengunggah kostum ID: 159 untuk user ID: 41
+[2025-05-03 16:56:24] ========== Memulai Proses Unggah ==========
+[2025-05-03 16:56:24] Mengunggah kostum ID: 123 untuk user ID: 41
+[2025-05-03 17:10:22] ========== Memulai Proses Unggah ==========
+[2025-05-03 17:10:22] Mengunggah kostum ID: 125 untuk user ID: 41
+[2025-05-03 17:26:09] ========== Memulai Proses Unggah ==========
+[2025-05-03 17:26:09] Mengunggah kostum ID: 159 untuk user ID: 41
+[2025-05-03 17:26:49] ========== Memulai Proses Unggah ==========
+[2025-05-03 17:26:49] Mengunggah kostum ID: 151 untuk user ID: 41
+[2025-05-03 17:28:07] ========== Memulai Proses Unggah ==========
+[2025-05-03 17:28:07] Mengunggah kostum ID: 134 untuk user ID: 41
+[2025-05-03 17:29:13] ========== Memulai Proses Unggah ==========
+[2025-05-03 17:29:13] Mengunggah kostum ID: 149 untuk user ID: 41
+[2025-05-03 17:47:22] ========== Memulai Proses Unggah ==========
+[2025-05-03 17:47:22] Mengunggah kostum ID: 123 untuk user ID: 41
+[2025-05-03 17:48:06] ========== Memulai Proses Unggah ==========
+[2025-05-03 17:48:06] Mengunggah kostum ID: 124 untuk user ID: 41
+[2025-05-03 18:31:16] ========== Memulai Proses Unggah ==========
+[2025-05-03 18:31:16] Mengunggah kostum ID: 125 untuk user ID: 41
+[2025-05-03 18:31:16] Berhasil mengunggah kostum: {"status":"success","message":"Kostum 'kara' berhasil diunggah!","kostum_id":125,"published_at":"2025-05-04 01:31:16","redirect_url":"\/TUGAS_AKHIR_KESYA\/indexuser\/index.php"}
+[2025-05-03 18:32:07] ========== Memulai Proses Unggah ==========
+[2025-05-03 18:32:07] Mengunggah kostum ID: 132 untuk user ID: 41
+[2025-05-03 18:32:07] Berhasil mengunggah kostum: {"status":"success","message":"Kostum 'daniel' berhasil diunggah!","kostum_id":132,"published_at":"2025-05-04 01:32:07","redirect_url":"\/TUGAS_AKHIR_KESYA\/indexuser\/index.php"}
+[2025-05-03 18:34:53] ========== Memulai Proses Unggah ==========
+[2025-05-03 18:34:53] Mengunggah kostum ID: 133 untuk user ID: 41
+[2025-05-03 18:34:53] Berhasil mengunggah kostum: {"status":"success","message":"Kostum 'dalam nama Yesus' berhasil diunggah!","kostum_id":133,"published_at":"2025-05-04 01:34:53","redirect_url":"\/TUGAS_AKHIR_KESYA\/indexuser\/index.php"}
+[2025-05-03 18:39:35] ========== Memulai Proses Unggah ==========
+[2025-05-03 18:39:35] Mengunggah kostum ID: 134 untuk user ID: 41
+[2025-05-03 18:39:35] Berhasil mengunggah kostum: {"status":"success","message":"Kostum 'bsa ni' berhasil diunggah!","kostum_id":134,"published_at":"2025-05-04 01:39:35","redirect_url":"\/TUGAS_AKHIR_KESYA\/indexuser\/index.php"}
+[2025-05-04 18:02:49] ========== Memulai Proses Unggah ==========
+[2025-05-04 18:02:49] Mengunggah kostum ID: 123 untuk user ID: 41
+[2025-05-04 18:02:49] Berhasil mengunggah kostum: {"status":"success","message":"Kostum 'mmm' berhasil diunggah!","kostum_id":123,"published_at":"2025-05-05 01:02:49","redirect_url":"\/TUGAS_AKHIR_KESYA\/indexuser\/index.php"}
+[2025-05-04 18:23:44] ========== Memulai Proses Unggah ==========
+[2025-05-04 18:23:44] Mengunggah kostum ID: 124 untuk user ID: 41
+[2025-05-04 18:23:44] Berhasil mengunggah kostum: {"status":"success","message":"Kostum 'ateez' berhasil diunggah!","kostum_id":124,"published_at":"2025-05-05 01:23:44","redirect_url":"\/TUGAS_AKHIR_KESYA\/indexuser\/index.php"}
+[2025-05-04 18:40:18] ========== Memulai Proses Unggah ==========
+[2025-05-04 18:40:18] Mengunggah kostum ID: 150 untuk user ID: 41
+[2025-05-04 18:40:18] Berhasil mengunggah kostum: {"status":"success","message":"Kostum 'Kostum Minangkabau' berhasil diunggah!","kostum_id":150,"published_at":"2025-05-05 01:40:18","redirect_url":"\/TUGAS_AKHIR_KESYA\/indexuser\/index.php"}
+[2025-05-05 09:36:02] ========== Memulai Proses Unggah ==========
+[2025-05-05 09:36:02] Mengunggah kostum ID: 149 untuk user ID: 41
+[2025-05-05 09:36:02] Berhasil mengunggah kostum: {"status":"success","message":"Kostum 'kostum adat dayak' berhasil diunggah!","kostum_id":149,"published_at":"2025-05-05 16:36:02","redirect_url":"\/TUGAS_AKHIR_KESYA\/indexuser\/index.php"}
+[2025-05-05 10:15:27] ========== Memulai Proses Unggah ==========
+[2025-05-05 10:15:27] Mengunggah kostum ID: 151 untuk user ID: 41
+[2025-05-05 10:15:27] Berhasil mengunggah kostum: {"status":"success","message":"Kostum 'a' berhasil diunggah!","kostum_id":151,"published_at":"2025-05-05 17:15:27","redirect_url":"\/TUGAS_AKHIR_KESYA\/indexuser\/index.php"}
+[2025-05-05 10:22:16] ========== Memulai Proses Unggah ==========
+[2025-05-05 10:22:16] Mengunggah kostum ID: 159 untuk user ID: 41
+[2025-05-05 10:22:16] Berhasil mengunggah kostum: {"status":"success","message":"Kostum 'hindia' berhasil diunggah!","kostum_id":159,"published_at":"2025-05-05 17:22:16","redirect_url":"\/TUGAS_AKHIR_KESYA\/indexuser\/index.php"}
+[2025-05-06 10:56:58] ========== Memulai Proses Unggah ==========
+[2025-05-06 10:56:58] Mengunggah kostum ID: 160 untuk user ID: 41
+[2025-05-06 10:56:58] Berhasil mengunggah kostum: {"status":"success","message":"Kostum 'contoh' berhasil diunggah!","kostum_id":160,"published_at":"2025-05-06 17:56:58","redirect_url":"\/TUGAS_AKHIR_KESYA\/indexuser\/index.php"}
+[2025-05-08 09:32:01] ========== Memulai Proses Unggah ==========
+[2025-05-08 09:32:01] Mengunggah kostum ID: 161 untuk user ID: 41
+[2025-05-08 09:32:01] Berhasil mengunggah kostum: {"status":"success","message":"Kostum 'sal' berhasil diunggah!","kostum_id":161,"redirect_url":"INDEXXX3.php"}
+[2025-05-09 16:50:51] ========== Memulai Proses Unggah ==========
+[2025-05-09 16:50:51] Mengunggah kostum ID: 162 untuk user ID: 41
+[2025-05-09 16:50:51] Berhasil mengunggah kostum: {"status":"success","message":"Kostum 'aa' berhasil diunggah!","kostum_id":162}
+[2025-05-10 12:40:44] ========== Memulai Proses Unggah ==========
+[2025-05-10 12:40:44] Mengunggah kostum ID: 159 untuk user ID: 44
+[2025-05-10 12:40:44] ERROR: Data kostum tidak ditemukan atau tidak memiliki akses
+Trace: #0 {main}
+[2025-05-10 12:45:08] ========== Memulai Proses Unggah ==========
+[2025-05-10 12:45:08] Mengunggah kostum ID: 120 untuk user ID: 44
+[2025-05-10 12:45:08] Berhasil mengunggah kostum: {"status":"success","message":"Kostum 'ccc' berhasil diunggah!","kostum_id":120}
+[2025-05-10 13:36:38] ========== Memulai Proses Unggah ==========
+[2025-05-10 13:36:38] Mengunggah kostum ID: 146 untuk user ID: 42
+[2025-05-10 13:36:38] Berhasil mengunggah kostum: {"status":"success","message":"Kostum 'mcr' berhasil diunggah!","kostum_id":146,"is_already_published":false}

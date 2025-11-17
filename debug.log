@@ -1,0 +1,492 @@
+[2025-05-21 04:28:08] Memulai proses penyimpanan data booking
+[2025-05-21 04:28:08] Data JSON diterima: {"product_id":161,"booked_by":"ttttt","dates":["2025-06-03","2025-06-02","2025-06-01"]}
+[2025-05-21 04:28:08] Data yang akan diproses - Product ID: 161, Booked By: ttttt, Dates: 2025-06-03, 2025-06-02, 2025-06-01
+[2025-05-21 04:28:08] Verifikasi produk berhasil
+[2025-05-21 04:28:08] Transaksi database dimulai
+[2025-05-21 04:28:08] Mencoba menyimpan tanggal: 2025-06-03
+[2025-05-21 04:28:08] Berhasil menyimpan tanggal 2025-06-03, affected rows: 1
+[2025-05-21 04:28:08] Mencoba menyimpan tanggal: 2025-06-02
+[2025-05-21 04:28:08] Berhasil menyimpan tanggal 2025-06-02, affected rows: 1
+[2025-05-21 04:28:08] Mencoba menyimpan tanggal: 2025-06-01
+[2025-05-21 04:28:08] Berhasil menyimpan tanggal 2025-06-01, affected rows: 1
+[2025-05-21 04:28:08] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-21 04:28:08] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-21 04:28:08] Proses selesai
+[2025-05-21 04:34:46] Memulai proses penyimpanan data booking
+[2025-05-21 04:34:46] Data JSON diterima: {"product_id":159,"booked_by":"lllllll","dates":["2025-05-23","2025-05-24","2025-05-25"]}
+[2025-05-21 04:34:46] Data yang akan diproses - Product ID: 159, Booked By: lllllll, Dates: 2025-05-23, 2025-05-24, 2025-05-25
+[2025-05-21 04:34:46] Verifikasi produk berhasil
+[2025-05-21 04:34:46] Transaksi database dimulai
+[2025-05-21 04:34:46] Mencoba menyimpan tanggal: 2025-05-23
+[2025-05-21 04:34:46] Berhasil menyimpan tanggal 2025-05-23, affected rows: 1
+[2025-05-21 04:34:46] Mencoba menyimpan tanggal: 2025-05-24
+[2025-05-21 04:34:46] Berhasil menyimpan tanggal 2025-05-24, affected rows: 1
+[2025-05-21 04:34:46] Mencoba menyimpan tanggal: 2025-05-25
+[2025-05-21 04:34:46] Berhasil menyimpan tanggal 2025-05-25, affected rows: 1
+[2025-05-21 04:34:46] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-21 04:34:46] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-21 04:34:46] Proses selesai
+[2025-05-21 04:35:38] Memulai proses penyimpanan data booking
+[2025-05-21 04:35:38] Data JSON diterima: {"product_id":154,"booked_by":"pangrib","dates":["2025-05-22","2025-05-23","2025-05-24"]}
+[2025-05-21 04:35:38] Data yang akan diproses - Product ID: 154, Booked By: pangrib, Dates: 2025-05-22, 2025-05-23, 2025-05-24
+[2025-05-21 04:35:38] Verifikasi produk berhasil
+[2025-05-21 04:35:38] Transaksi database dimulai
+[2025-05-21 04:35:38] Mencoba menyimpan tanggal: 2025-05-22
+[2025-05-21 04:35:38] Berhasil menyimpan tanggal 2025-05-22, affected rows: 1
+[2025-05-21 04:35:38] Mencoba menyimpan tanggal: 2025-05-23
+[2025-05-21 04:35:38] Berhasil menyimpan tanggal 2025-05-23, affected rows: 1
+[2025-05-21 04:35:38] Mencoba menyimpan tanggal: 2025-05-24
+[2025-05-21 04:35:38] Berhasil menyimpan tanggal 2025-05-24, affected rows: 1
+[2025-05-21 04:35:38] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-21 04:35:38] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-21 04:35:38] Proses selesai
+[2025-05-21 04:37:36] Memulai proses penyimpanan data booking
+[2025-05-21 04:37:36] Data JSON diterima: {"product_id":147,"booked_by":"lina","dates":["2025-05-26","2025-05-27","2025-05-28"]}
+[2025-05-21 04:37:36] Data yang akan diproses - Product ID: 147, Booked By: lina, Dates: 2025-05-26, 2025-05-27, 2025-05-28
+[2025-05-21 04:37:36] Verifikasi produk berhasil
+[2025-05-21 04:37:36] Transaksi database dimulai
+[2025-05-21 04:37:36] Mencoba menyimpan tanggal: 2025-05-26
+[2025-05-21 04:37:36] Berhasil menyimpan tanggal 2025-05-26, affected rows: 1
+[2025-05-21 04:37:36] Mencoba menyimpan tanggal: 2025-05-27
+[2025-05-21 04:37:36] Berhasil menyimpan tanggal 2025-05-27, affected rows: 1
+[2025-05-21 04:37:36] Mencoba menyimpan tanggal: 2025-05-28
+[2025-05-21 04:37:36] Berhasil menyimpan tanggal 2025-05-28, affected rows: 1
+[2025-05-21 04:37:36] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-21 04:37:36] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-21 04:37:36] Proses selesai
+[2025-05-21 04:48:02] Memulai proses penyimpanan data booking
+[2025-05-21 04:48:02] Data JSON diterima: {"product_id":146,"booked_by":"kesya","dates":["2025-05-22","2025-05-23","2025-05-24"]}
+[2025-05-21 04:48:02] Data yang akan diproses - Product ID: 146, Booked By: kesya, Dates: 2025-05-22, 2025-05-23, 2025-05-24
+[2025-05-21 04:48:02] Verifikasi produk berhasil
+[2025-05-21 04:48:02] Transaksi database dimulai
+[2025-05-21 04:48:02] Mencoba menyimpan tanggal: 2025-05-22
+[2025-05-21 04:48:02] Berhasil menyimpan tanggal 2025-05-22, affected rows: 1
+[2025-05-21 04:48:02] Mencoba menyimpan tanggal: 2025-05-23
+[2025-05-21 04:48:02] Berhasil menyimpan tanggal 2025-05-23, affected rows: 1
+[2025-05-21 04:48:02] Mencoba menyimpan tanggal: 2025-05-24
+[2025-05-21 04:48:02] Berhasil menyimpan tanggal 2025-05-24, affected rows: 1
+[2025-05-21 04:48:02] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-21 04:48:02] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-21 04:48:02] Proses selesai
+[2025-05-21 04:48:41] Memulai proses penyimpanan data booking
+[2025-05-21 04:48:41] Data JSON diterima: {"product_id":163,"booked_by":"ramita","dates":["2025-05-22","2025-05-23","2025-05-24"]}
+[2025-05-21 04:48:41] Data yang akan diproses - Product ID: 163, Booked By: ramita, Dates: 2025-05-22, 2025-05-23, 2025-05-24
+[2025-05-21 04:48:41] Verifikasi produk berhasil
+[2025-05-21 04:48:41] Transaksi database dimulai
+[2025-05-21 04:48:41] Mencoba menyimpan tanggal: 2025-05-22
+[2025-05-21 04:48:41] Berhasil menyimpan tanggal 2025-05-22, affected rows: 1
+[2025-05-21 04:48:41] Mencoba menyimpan tanggal: 2025-05-23
+[2025-05-21 04:48:41] Berhasil menyimpan tanggal 2025-05-23, affected rows: 1
+[2025-05-21 04:48:41] Mencoba menyimpan tanggal: 2025-05-24
+[2025-05-21 04:48:41] Berhasil menyimpan tanggal 2025-05-24, affected rows: 1
+[2025-05-21 04:48:41] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-21 04:48:41] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-21 04:48:41] Proses selesai
+[2025-05-21 04:56:20] Memulai proses penyimpanan data booking
+[2025-05-21 04:56:20] Data JSON diterima: {"product_id":161,"booked_by":"hai","dates":["2025-05-28","2025-05-29","2025-05-30"]}
+[2025-05-21 04:56:20] Data yang akan diproses - Product ID: 161, Booked By: hai, Dates: 2025-05-28, 2025-05-29, 2025-05-30
+[2025-05-21 04:56:20] Verifikasi produk berhasil
+[2025-05-21 04:56:20] Transaksi database dimulai
+[2025-05-21 04:56:20] Mencoba menyimpan tanggal: 2025-05-28
+[2025-05-21 04:56:20] Berhasil menyimpan tanggal 2025-05-28, affected rows: 1
+[2025-05-21 04:56:20] Mencoba menyimpan tanggal: 2025-05-29
+[2025-05-21 04:56:20] Berhasil menyimpan tanggal 2025-05-29, affected rows: 1
+[2025-05-21 04:56:20] Mencoba menyimpan tanggal: 2025-05-30
+[2025-05-21 04:56:20] Berhasil menyimpan tanggal 2025-05-30, affected rows: 1
+[2025-05-21 04:56:20] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-21 04:56:20] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-21 04:56:20] Proses selesai
+[2025-05-21 08:23:54] Memulai proses penyimpanan data booking
+[2025-05-21 08:23:54] Data JSON diterima: {"product_id":158,"booked_by":"mawar","dates":["2025-05-29","2025-05-30","2025-05-31"]}
+[2025-05-21 08:23:54] Data yang akan diproses - Product ID: 158, Booked By: mawar, Dates: 2025-05-29, 2025-05-30, 2025-05-31
+[2025-05-21 08:23:54] Verifikasi produk berhasil
+[2025-05-21 08:23:54] Transaksi database dimulai
+[2025-05-21 08:23:54] Mencoba menyimpan tanggal: 2025-05-29
+[2025-05-21 08:23:54] Berhasil menyimpan tanggal 2025-05-29, affected rows: 1
+[2025-05-21 08:23:54] Mencoba menyimpan tanggal: 2025-05-30
+[2025-05-21 08:23:54] Berhasil menyimpan tanggal 2025-05-30, affected rows: 1
+[2025-05-21 08:23:54] Mencoba menyimpan tanggal: 2025-05-31
+[2025-05-21 08:23:54] Berhasil menyimpan tanggal 2025-05-31, affected rows: 1
+[2025-05-21 08:23:54] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-21 08:23:54] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-21 08:23:54] Proses selesai
+[2025-05-21 17:34:47] Memulai proses penyimpanan data booking
+[2025-05-21 17:34:47] Data JSON diterima: {"product_id":132,"booked_by":"melati","dates":["2025-06-01","2025-06-03","2025-06-02"]}
+[2025-05-21 17:34:47] Data yang akan diproses - Product ID: 132, Booked By: melati, Dates: 2025-06-01, 2025-06-03, 2025-06-02
+[2025-05-21 17:34:47] Verifikasi produk berhasil
+[2025-05-21 17:34:47] Transaksi database dimulai
+[2025-05-21 17:34:47] Mencoba menyimpan tanggal: 2025-06-01
+[2025-05-21 17:34:47] Berhasil menyimpan tanggal 2025-06-01, affected rows: 1
+[2025-05-21 17:34:47] Mencoba menyimpan tanggal: 2025-06-03
+[2025-05-21 17:34:47] Berhasil menyimpan tanggal 2025-06-03, affected rows: 1
+[2025-05-21 17:34:47] Mencoba menyimpan tanggal: 2025-06-02
+[2025-05-21 17:34:47] Berhasil menyimpan tanggal 2025-06-02, affected rows: 1
+[2025-05-21 17:34:47] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-21 17:34:47] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-21 17:34:47] Proses selesai
+[2025-05-22 15:53:20] Memulai proses penyimpanan data booking
+[2025-05-22 15:53:20] Data JSON diterima: {"product_id":158,"booked_by":"boan","dates":["2025-05-28","2025-05-29"]}
+[2025-05-22 15:53:20] Data yang akan diproses - Product ID: 158, Booked By: boan, Dates: 2025-05-28, 2025-05-29
+[2025-05-22 15:53:20] Rollback transaksi karena error
+[2025-05-22 15:53:20] Error terjadi: Produk tidak ditemukan atau bukan milik Anda (Code: 404)
+[2025-05-22 15:53:20] Proses selesai
+[2025-05-22 16:05:31] Memulai proses penyimpanan data booking
+[2025-05-22 16:05:31] Data JSON diterima: {"product_id":163,"booked_by":"koti","dates":["2025-05-29","2025-05-30"]}
+[2025-05-22 16:05:31] Data yang akan diproses - Product ID: 163, Booked By: koti, Dates: 2025-05-29, 2025-05-30
+[2025-05-22 16:05:31] Verifikasi produk berhasil
+[2025-05-22 16:05:31] Transaksi database dimulai
+[2025-05-22 16:05:31] Mencoba menyimpan tanggal: 2025-05-29
+[2025-05-22 16:05:31] Berhasil menyimpan tanggal 2025-05-29, affected rows: 1
+[2025-05-22 16:05:31] Mencoba menyimpan tanggal: 2025-05-30
+[2025-05-22 16:05:31] Berhasil menyimpan tanggal 2025-05-30, affected rows: 1
+[2025-05-22 16:05:31] Transaksi berhasil di-commit. Total disimpan: 2, Dilewati: 0
+[2025-05-22 16:05:31] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":2,"skipped":[]}
+[2025-05-22 16:05:31] Proses selesai
+[2025-05-22 16:10:02] Memulai proses penyimpanan data booking
+[2025-05-22 16:10:02] Data JSON diterima: {"product_id":163,"booked_by":"ngantuk","dates":["2025-05-31","2025-05-30","2025-05-29"]}
+[2025-05-22 16:10:02] Data yang akan diproses - Product ID: 163, Booked By: ngantuk, Dates: 2025-05-31, 2025-05-30, 2025-05-29
+[2025-05-22 16:10:02] Verifikasi produk berhasil
+[2025-05-22 16:10:02] Transaksi database dimulai
+[2025-05-22 16:10:02] Mencoba menyimpan tanggal: 2025-05-31
+[2025-05-22 16:10:02] Berhasil menyimpan tanggal 2025-05-31, affected rows: 1
+[2025-05-22 16:10:02] Mencoba menyimpan tanggal: 2025-05-30
+[2025-05-22 16:10:02] Berhasil menyimpan tanggal 2025-05-30, affected rows: 2
+[2025-05-22 16:10:02] Mencoba menyimpan tanggal: 2025-05-29
+[2025-05-22 16:10:02] Berhasil menyimpan tanggal 2025-05-29, affected rows: 2
+[2025-05-22 16:10:02] Transaksi berhasil di-commit. Total disimpan: 5, Dilewati: 0
+[2025-05-22 16:10:02] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":5,"skipped":[]}
+[2025-05-22 16:10:02] Proses selesai
+[2025-05-22 16:15:48] Memulai proses penyimpanan data booking
+[2025-05-22 16:15:48] Data JSON diterima: {"product_id":161,"booked_by":"sal priadi","dates":["2025-06-03","2025-06-04","2025-06-05"]}
+[2025-05-22 16:15:48] Data yang akan diproses - Product ID: 161, Booked By: sal priadi, Dates: 2025-06-03, 2025-06-04, 2025-06-05
+[2025-05-22 16:15:48] Verifikasi produk berhasil
+[2025-05-22 16:15:48] Transaksi database dimulai
+[2025-05-22 16:15:48] Mencoba menyimpan tanggal: 2025-06-03
+[2025-05-22 16:15:48] Berhasil menyimpan tanggal 2025-06-03, affected rows: 1
+[2025-05-22 16:15:48] Mencoba menyimpan tanggal: 2025-06-04
+[2025-05-22 16:15:48] Berhasil menyimpan tanggal 2025-06-04, affected rows: 1
+[2025-05-22 16:15:48] Mencoba menyimpan tanggal: 2025-06-05
+[2025-05-22 16:15:48] Berhasil menyimpan tanggal 2025-06-05, affected rows: 1
+[2025-05-22 16:15:48] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-22 16:15:48] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-22 16:15:48] Proses selesai
+[2025-05-23 10:33:21] Memulai proses penyimpanan data booking
+[2025-05-23 10:33:21] Data JSON diterima: {"product_id":134,"booked_by":"suci","dates":["2025-05-25","2025-05-26","2025-05-27"]}
+[2025-05-23 10:33:21] Data yang akan diproses - Product ID: 134, Booked By: suci, Dates: 2025-05-25, 2025-05-26, 2025-05-27
+[2025-05-23 10:33:21] Verifikasi produk berhasil
+[2025-05-23 10:33:21] Transaksi database dimulai
+[2025-05-23 10:33:21] Mencoba menyimpan tanggal: 2025-05-25
+[2025-05-23 10:33:21] Berhasil menyimpan tanggal 2025-05-25, affected rows: 1
+[2025-05-23 10:33:21] Mencoba menyimpan tanggal: 2025-05-26
+[2025-05-23 10:33:21] Berhasil menyimpan tanggal 2025-05-26, affected rows: 1
+[2025-05-23 10:33:21] Mencoba menyimpan tanggal: 2025-05-27
+[2025-05-23 10:33:21] Berhasil menyimpan tanggal 2025-05-27, affected rows: 1
+[2025-05-23 10:33:21] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-23 10:33:21] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-23 10:33:21] Proses selesai
+[2025-05-23 11:27:40] Memulai proses penyimpanan data booking
+[2025-05-23 11:27:40] Data JSON diterima: {"product_id":132,"booked_by":"WAVE","dates":["2025-05-30","2025-05-31"]}
+[2025-05-23 11:27:40] Data yang akan diproses - Product ID: 132, Booked By: WAVE, Dates: 2025-05-30, 2025-05-31
+[2025-05-23 11:27:40] Verifikasi produk berhasil
+[2025-05-23 11:27:40] Transaksi database dimulai
+[2025-05-23 11:27:40] Mencoba menyimpan tanggal: 2025-05-30
+[2025-05-23 11:27:41] Berhasil menyimpan tanggal 2025-05-30, affected rows: 1
+[2025-05-23 11:27:41] Mencoba menyimpan tanggal: 2025-05-31
+[2025-05-23 11:27:41] Berhasil menyimpan tanggal 2025-05-31, affected rows: 1
+[2025-05-23 11:27:41] Transaksi berhasil di-commit. Total disimpan: 2, Dilewati: 0
+[2025-05-23 11:27:41] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":2,"skipped":[]}
+[2025-05-23 11:27:41] Proses selesai
+[2025-05-23 16:18:30] Memulai proses penyimpanan data booking
+[2025-05-23 16:18:30] Data JSON diterima: {"product_id":164,"booked_by":"pangrib","dates":["2025-05-25","2025-05-26","2025-05-27","2025-05-28","2025-05-29"]}
+[2025-05-23 16:18:30] Data yang akan diproses - Product ID: 164, Booked By: pangrib, Dates: 2025-05-25, 2025-05-26, 2025-05-27, 2025-05-28, 2025-05-29
+[2025-05-23 16:18:30] Verifikasi produk berhasil
+[2025-05-23 16:18:30] Transaksi database dimulai
+[2025-05-23 16:18:30] Mencoba menyimpan tanggal: 2025-05-25
+[2025-05-23 16:18:30] Berhasil menyimpan tanggal 2025-05-25, affected rows: 1
+[2025-05-23 16:18:30] Mencoba menyimpan tanggal: 2025-05-26
+[2025-05-23 16:18:30] Berhasil menyimpan tanggal 2025-05-26, affected rows: 1
+[2025-05-23 16:18:30] Mencoba menyimpan tanggal: 2025-05-27
+[2025-05-23 16:18:30] Berhasil menyimpan tanggal 2025-05-27, affected rows: 1
+[2025-05-23 16:18:30] Mencoba menyimpan tanggal: 2025-05-28
+[2025-05-23 16:18:30] Berhasil menyimpan tanggal 2025-05-28, affected rows: 1
+[2025-05-23 16:18:30] Mencoba menyimpan tanggal: 2025-05-29
+[2025-05-23 16:18:30] Berhasil menyimpan tanggal 2025-05-29, affected rows: 1
+[2025-05-23 16:18:30] Transaksi berhasil di-commit. Total disimpan: 5, Dilewati: 0
+[2025-05-23 16:18:30] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":5,"skipped":[]}
+[2025-05-23 16:18:30] Proses selesai
+[2025-05-24 12:17:49] Memulai proses penyimpanan data booking
+[2025-05-24 12:17:49] Data JSON diterima: {"product_id":149,"booked_by":"sombr","dates":["2025-05-27","2025-05-28","2025-05-29"]}
+[2025-05-24 12:17:49] Data yang akan diproses - Product ID: 149, Booked By: sombr, Dates: 2025-05-27, 2025-05-28, 2025-05-29
+[2025-05-24 12:17:49] Verifikasi produk berhasil
+[2025-05-24 12:17:49] Transaksi database dimulai
+[2025-05-24 12:17:49] Mencoba menyimpan tanggal: 2025-05-27
+[2025-05-24 12:17:49] Berhasil menyimpan tanggal 2025-05-27, affected rows: 1
+[2025-05-24 12:17:49] Mencoba menyimpan tanggal: 2025-05-28
+[2025-05-24 12:17:49] Berhasil menyimpan tanggal 2025-05-28, affected rows: 1
+[2025-05-24 12:17:49] Mencoba menyimpan tanggal: 2025-05-29
+[2025-05-24 12:17:49] Berhasil menyimpan tanggal 2025-05-29, affected rows: 1
+[2025-05-24 12:17:49] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-24 12:17:49] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-24 12:17:49] Proses selesai
+[2025-05-24 13:21:07] Memulai proses penyimpanan data booking
+[2025-05-24 13:21:07] Data JSON diterima: {"product_id":164,"booked_by":"necxt","dates":["2025-05-27","2025-05-28","2025-05-29","2025-05-30","2025-05-31"]}
+[2025-05-24 13:21:07] Data yang akan diproses - Product ID: 164, Booked By: necxt, Dates: 2025-05-27, 2025-05-28, 2025-05-29, 2025-05-30, 2025-05-31
+[2025-05-24 13:21:07] Verifikasi produk berhasil
+[2025-05-24 13:21:07] Transaksi database dimulai
+[2025-05-24 13:21:07] Mencoba menyimpan tanggal: 2025-05-27
+[2025-05-24 13:21:07] Berhasil menyimpan tanggal 2025-05-27, affected rows: 2
+[2025-05-24 13:21:07] Mencoba menyimpan tanggal: 2025-05-28
+[2025-05-24 13:21:07] Berhasil menyimpan tanggal 2025-05-28, affected rows: 2
+[2025-05-24 13:21:07] Mencoba menyimpan tanggal: 2025-05-29
+[2025-05-24 13:21:07] Berhasil menyimpan tanggal 2025-05-29, affected rows: 2
+[2025-05-24 13:21:07] Mencoba menyimpan tanggal: 2025-05-30
+[2025-05-24 13:21:07] Berhasil menyimpan tanggal 2025-05-30, affected rows: 1
+[2025-05-24 13:21:07] Mencoba menyimpan tanggal: 2025-05-31
+[2025-05-24 13:21:07] Berhasil menyimpan tanggal 2025-05-31, affected rows: 1
+[2025-05-24 13:21:07] Transaksi berhasil di-commit. Total disimpan: 8, Dilewati: 0
+[2025-05-24 13:21:07] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":8,"skipped":[]}
+[2025-05-24 13:21:07] Proses selesai
+[2025-05-24 13:30:17] Memulai proses penyimpanan data booking
+[2025-05-24 13:30:17] Data JSON diterima: {"product_id":163,"booked_by":"kevin","dates":["2025-05-29","2025-05-30","2025-05-31"]}
+[2025-05-24 13:30:17] Data yang akan diproses - Product ID: 163, Booked By: kevin, Dates: 2025-05-29, 2025-05-30, 2025-05-31
+[2025-05-24 13:30:17] Verifikasi produk berhasil
+[2025-05-24 13:30:17] Transaksi database dimulai
+[2025-05-24 13:30:17] Mencoba menyimpan tanggal: 2025-05-29
+[2025-05-24 13:30:17] Berhasil menyimpan tanggal 2025-05-29, affected rows: 2
+[2025-05-24 13:30:17] Mencoba menyimpan tanggal: 2025-05-30
+[2025-05-24 13:30:17] Berhasil menyimpan tanggal 2025-05-30, affected rows: 2
+[2025-05-24 13:30:17] Mencoba menyimpan tanggal: 2025-05-31
+[2025-05-24 13:30:17] Berhasil menyimpan tanggal 2025-05-31, affected rows: 2
+[2025-05-24 13:30:17] Transaksi berhasil di-commit. Total disimpan: 6, Dilewati: 0
+[2025-05-24 13:30:17] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":6,"skipped":[]}
+[2025-05-24 13:30:17] Proses selesai
+[2025-05-24 13:58:44] Memulai proses penyimpanan data booking
+[2025-05-24 13:58:44] Data JSON diterima: {"product_id":163,"booked_by":"thus","dates":["2025-05-27","2025-05-28","2025-05-29"]}
+[2025-05-24 13:58:44] Data yang akan diproses - Product ID: 163, Booked By: thus, Dates: 2025-05-27, 2025-05-28, 2025-05-29
+[2025-05-24 13:58:44] Verifikasi produk berhasil
+[2025-05-24 13:58:44] Transaksi database dimulai
+[2025-05-24 13:58:44] Mencoba menyimpan tanggal: 2025-05-27
+[2025-05-24 13:58:44] Berhasil menyimpan tanggal 2025-05-27, affected rows: 1
+[2025-05-24 13:58:44] Mencoba menyimpan tanggal: 2025-05-28
+[2025-05-24 13:58:44] Berhasil menyimpan tanggal 2025-05-28, affected rows: 1
+[2025-05-24 13:58:44] Mencoba menyimpan tanggal: 2025-05-29
+[2025-05-24 13:58:44] Berhasil menyimpan tanggal 2025-05-29, affected rows: 2
+[2025-05-24 13:58:44] Transaksi berhasil di-commit. Total disimpan: 4, Dilewati: 0
+[2025-05-24 13:58:44] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":4,"skipped":[]}
+[2025-05-24 13:58:44] Proses selesai
+[2025-05-25 16:20:39] Memulai proses penyimpanan data booking
+[2025-05-25 16:20:39] Data JSON diterima: {"product_id":161,"booked_by":"piano","dates":["2025-05-28","2025-05-29","2025-05-30"]}
+[2025-05-25 16:20:39] Data yang akan diproses - Product ID: 161, Booked By: piano, Dates: 2025-05-28, 2025-05-29, 2025-05-30
+[2025-05-25 16:20:39] Verifikasi produk berhasil
+[2025-05-25 16:20:39] Transaksi database dimulai
+[2025-05-25 16:20:39] Mencoba menyimpan tanggal: 2025-05-28
+[2025-05-25 16:20:39] Berhasil menyimpan tanggal 2025-05-28, affected rows: 2
+[2025-05-25 16:20:39] Mencoba menyimpan tanggal: 2025-05-29
+[2025-05-25 16:20:39] Berhasil menyimpan tanggal 2025-05-29, affected rows: 2
+[2025-05-25 16:20:39] Mencoba menyimpan tanggal: 2025-05-30
+[2025-05-25 16:20:39] Berhasil menyimpan tanggal 2025-05-30, affected rows: 2
+[2025-05-25 16:20:39] Transaksi berhasil di-commit. Total disimpan: 6, Dilewati: 0
+[2025-05-25 16:20:39] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":6,"skipped":[]}
+[2025-05-25 16:20:39] Proses selesai
+[2025-05-25 16:29:50] Memulai proses penyimpanan data booking
+[2025-05-25 16:29:50] Data JSON diterima: {"product_id":161,"booked_by":"Pemilik","dates":["2025-06-04","2025-06-05","2025-06-06"]}
+[2025-05-25 16:29:50] Data yang akan diproses - Product ID: 161, Booked By: Pemilik, Dates: 2025-06-04, 2025-06-05, 2025-06-06
+[2025-05-25 16:29:50] Verifikasi produk berhasil
+[2025-05-25 16:29:50] Transaksi database dimulai
+[2025-05-25 16:29:50] Mencoba menyimpan tanggal: 2025-06-04
+[2025-05-25 16:29:50] Berhasil menyimpan tanggal 2025-06-04, affected rows: 2
+[2025-05-25 16:29:50] Mencoba menyimpan tanggal: 2025-06-05
+[2025-05-25 16:29:50] Berhasil menyimpan tanggal 2025-06-05, affected rows: 2
+[2025-05-25 16:29:50] Mencoba menyimpan tanggal: 2025-06-06
+[2025-05-25 16:29:50] Berhasil menyimpan tanggal 2025-06-06, affected rows: 1
+[2025-05-25 16:29:50] Transaksi berhasil di-commit. Total disimpan: 5, Dilewati: 0
+[2025-05-25 16:29:50] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":5,"skipped":[]}
+[2025-05-25 16:29:50] Proses selesai
+[2025-05-25 16:47:27] Memulai proses penyimpanan data booking
+[2025-05-25 16:47:27] Data JSON diterima: {"product_id":161,"booked_by":"Pemilik","dates":["2025-06-10","2025-06-11","2025-06-12"]}
+[2025-05-25 16:47:27] Data yang akan diproses - Product ID: 161, Booked By: Pemilik, Dates: 2025-06-10, 2025-06-11, 2025-06-12
+[2025-05-25 16:47:27] Verifikasi produk berhasil
+[2025-05-25 16:47:27] Transaksi database dimulai
+[2025-05-25 16:47:27] Mencoba menyimpan tanggal: 2025-06-10
+[2025-05-25 16:47:27] Berhasil menyimpan tanggal 2025-06-10, affected rows: 1
+[2025-05-25 16:47:27] Mencoba menyimpan tanggal: 2025-06-11
+[2025-05-25 16:47:27] Berhasil menyimpan tanggal 2025-06-11, affected rows: 1
+[2025-05-25 16:47:27] Mencoba menyimpan tanggal: 2025-06-12
+[2025-05-25 16:47:27] Berhasil menyimpan tanggal 2025-06-12, affected rows: 1
+[2025-05-25 16:47:27] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-25 16:47:27] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-25 16:47:27] Proses selesai
+[2025-05-25 17:05:13] Memulai proses penyimpanan data booking
+[2025-05-25 17:05:13] Data JSON diterima: {"product_id":161,"booked_by":"Pemilik","dates":["2025-06-04","2025-06-05","2025-06-06"]}
+[2025-05-25 17:05:13] Data yang akan diproses - Product ID: 161, Booked By: Pemilik, Dates: 2025-06-04, 2025-06-05, 2025-06-06
+[2025-05-25 17:05:13] Verifikasi produk berhasil
+[2025-05-25 17:05:13] Transaksi database dimulai
+[2025-05-25 17:05:13] Mencoba menyimpan tanggal: 2025-06-04
+[2025-05-25 17:05:13] Berhasil menyimpan tanggal 2025-06-04, affected rows: 0
+[2025-05-25 17:05:13] Mencoba menyimpan tanggal: 2025-06-05
+[2025-05-25 17:05:13] Berhasil menyimpan tanggal 2025-06-05, affected rows: 0
+[2025-05-25 17:05:13] Mencoba menyimpan tanggal: 2025-06-06
+[2025-05-25 17:05:13] Berhasil menyimpan tanggal 2025-06-06, affected rows: 0
+[2025-05-25 17:05:13] Transaksi berhasil di-commit. Total disimpan: 0, Dilewati: 0
+[2025-05-25 17:05:13] Response dikirim: {"status":"success","message":"Tidak ada data yang disimpan","inserted":0,"skipped":[]}
+[2025-05-25 17:05:13] Proses selesai
+[2025-05-26 08:43:41] Memulai proses penyimpanan data booking
+[2025-05-26 08:43:41] Data JSON diterima: {"product_id":161,"booked_by":"rain","dates":["2025-06-15","2025-06-16","2025-06-17"]}
+[2025-05-26 08:43:41] Data yang akan diproses - Product ID: 161, Booked By: rain, Dates: 2025-06-15, 2025-06-16, 2025-06-17
+[2025-05-26 08:43:41] Verifikasi produk berhasil
+[2025-05-26 08:43:41] Transaksi database dimulai
+[2025-05-26 08:43:41] Mencoba menyimpan tanggal: 2025-06-15
+[2025-05-26 08:43:41] Berhasil menyimpan tanggal 2025-06-15, affected rows: 1
+[2025-05-26 08:43:41] Mencoba menyimpan tanggal: 2025-06-16
+[2025-05-26 08:43:41] Berhasil menyimpan tanggal 2025-06-16, affected rows: 1
+[2025-05-26 08:43:41] Mencoba menyimpan tanggal: 2025-06-17
+[2025-05-26 08:43:41] Berhasil menyimpan tanggal 2025-06-17, affected rows: 1
+[2025-05-26 08:43:41] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-26 08:43:41] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-26 08:43:41] Proses selesai
+[2025-05-26 08:44:46] Memulai proses penyimpanan data booking
+[2025-05-26 08:44:46] Data JSON diterima: {"product_id":159,"booked_by":"mita","dates":["2025-05-27","2025-05-28","2025-05-29"]}
+[2025-05-26 08:44:46] Data yang akan diproses - Product ID: 159, Booked By: mita, Dates: 2025-05-27, 2025-05-28, 2025-05-29
+[2025-05-26 08:44:46] Verifikasi produk berhasil
+[2025-05-26 08:44:46] Transaksi database dimulai
+[2025-05-26 08:44:46] Mencoba menyimpan tanggal: 2025-05-27
+[2025-05-26 08:44:47] Berhasil menyimpan tanggal 2025-05-27, affected rows: 1
+[2025-05-26 08:44:47] Mencoba menyimpan tanggal: 2025-05-28
+[2025-05-26 08:44:47] Berhasil menyimpan tanggal 2025-05-28, affected rows: 1
+[2025-05-26 08:44:47] Mencoba menyimpan tanggal: 2025-05-29
+[2025-05-26 08:44:47] Berhasil menyimpan tanggal 2025-05-29, affected rows: 1
+[2025-05-26 08:44:47] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-26 08:44:47] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-26 08:44:47] Proses selesai
+[2025-05-29 10:16:59] Memulai proses penyimpanan data booking
+[2025-05-29 10:16:59] Data JSON diterima: {"product_id":161,"booked_by":"suci","dates":["2025-06-01","2025-06-02","2025-06-03"]}
+[2025-05-29 10:16:59] Data yang akan diproses - Product ID: 161, Booked By: suci, Dates: 2025-06-01, 2025-06-02, 2025-06-03
+[2025-05-29 10:16:59] Verifikasi produk berhasil
+[2025-05-29 10:16:59] Transaksi database dimulai
+[2025-05-29 10:16:59] Mencoba menyimpan tanggal: 2025-06-01
+[2025-05-29 10:16:59] Berhasil menyimpan tanggal 2025-06-01, affected rows: 1
+[2025-05-29 10:16:59] Mencoba menyimpan tanggal: 2025-06-02
+[2025-05-29 10:16:59] Berhasil menyimpan tanggal 2025-06-02, affected rows: 1
+[2025-05-29 10:16:59] Mencoba menyimpan tanggal: 2025-06-03
+[2025-05-29 10:16:59] Berhasil menyimpan tanggal 2025-06-03, affected rows: 1
+[2025-05-29 10:16:59] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-29 10:16:59] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-29 10:16:59] Proses selesai
+[2025-05-29 10:17:30] Memulai proses penyimpanan data booking
+[2025-05-29 10:17:30] Data JSON diterima: {"product_id":161,"booked_by":"dwi","dates":["2025-06-04","2025-06-05","2025-06-06"]}
+[2025-05-29 10:17:30] Data yang akan diproses - Product ID: 161, Booked By: dwi, Dates: 2025-06-04, 2025-06-05, 2025-06-06
+[2025-05-29 10:17:30] Verifikasi produk berhasil
+[2025-05-29 10:17:30] Transaksi database dimulai
+[2025-05-29 10:17:30] Mencoba menyimpan tanggal: 2025-06-04
+[2025-05-29 10:17:30] Berhasil menyimpan tanggal 2025-06-04, affected rows: 1
+[2025-05-29 10:17:30] Mencoba menyimpan tanggal: 2025-06-05
+[2025-05-29 10:17:30] Berhasil menyimpan tanggal 2025-06-05, affected rows: 1
+[2025-05-29 10:17:30] Mencoba menyimpan tanggal: 2025-06-06
+[2025-05-29 10:17:30] Berhasil menyimpan tanggal 2025-06-06, affected rows: 1
+[2025-05-29 10:17:30] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-29 10:17:30] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-29 10:17:30] Proses selesai
+[2025-05-29 11:45:45] Memulai proses penyimpanan data booking
+[2025-05-29 11:45:45] Data JSON diterima: {"product_id":134,"booked_by":"pebiu","dates":["2025-06-18","2025-06-19","2025-06-20"]}
+[2025-05-29 11:45:45] Data yang akan diproses - Product ID: 134, Booked By: pebiu, Dates: 2025-06-18, 2025-06-19, 2025-06-20
+[2025-05-29 11:45:45] Verifikasi produk berhasil
+[2025-05-29 11:45:45] Transaksi database dimulai
+[2025-05-29 11:45:45] Mencoba menyimpan tanggal: 2025-06-18
+[2025-05-29 11:45:45] Berhasil menyimpan tanggal 2025-06-18, affected rows: 1
+[2025-05-29 11:45:45] Mencoba menyimpan tanggal: 2025-06-19
+[2025-05-29 11:45:45] Berhasil menyimpan tanggal 2025-06-19, affected rows: 1
+[2025-05-29 11:45:45] Mencoba menyimpan tanggal: 2025-06-20
+[2025-05-29 11:45:45] Berhasil menyimpan tanggal 2025-06-20, affected rows: 1
+[2025-05-29 11:45:45] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-05-29 11:45:45] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-05-29 11:45:45] Proses selesai
+[2025-06-05 07:56:08] Memulai proses penyimpanan data booking
+[2025-06-05 07:56:08] Data JSON diterima: {"product_id":165,"booked_by":"haloo","dates":["2025-06-25"]}
+[2025-06-05 07:56:08] Data yang akan diproses - Product ID: 165, Booked By: haloo, Dates: 2025-06-25
+[2025-06-05 07:56:08] Verifikasi produk berhasil
+[2025-06-05 07:56:08] Transaksi database dimulai
+[2025-06-05 07:56:08] Mencoba menyimpan tanggal: 2025-06-25
+[2025-06-05 07:56:08] Berhasil menyimpan tanggal 2025-06-25, affected rows: 1
+[2025-06-05 07:56:08] Transaksi berhasil di-commit. Total disimpan: 1, Dilewati: 0
+[2025-06-05 07:56:08] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":1,"skipped":[]}
+[2025-06-05 07:56:08] Proses selesai
+[2025-07-17 05:36:54] Rollback transaksi karena error
+[2025-07-17 05:36:54] Error terjadi: Anda harus login terlebih dahulu (Code: 401)
+[2025-07-17 05:36:54] Proses selesai
+[2025-07-17 05:36:56] Rollback transaksi karena error
+[2025-07-17 05:36:56] Error terjadi: Anda harus login terlebih dahulu (Code: 401)
+[2025-07-17 05:36:56] Proses selesai
+[2025-07-17 05:38:10] Memulai proses penyimpanan data booking
+[2025-07-17 05:38:10] Data JSON diterima: {"product_id":189,"booked_by":"iris","dates":["2025-07-18","2025-07-19"]}
+[2025-07-17 05:38:10] Data yang akan diproses - Product ID: 189, Booked By: iris, Dates: 2025-07-18, 2025-07-19
+[2025-07-17 05:38:10] Verifikasi produk berhasil
+[2025-07-17 05:38:10] Transaksi database dimulai
+[2025-07-17 05:38:10] Mencoba menyimpan tanggal: 2025-07-18
+[2025-07-17 05:38:10] Berhasil menyimpan tanggal 2025-07-18, affected rows: 1
+[2025-07-17 05:38:10] Mencoba menyimpan tanggal: 2025-07-19
+[2025-07-17 05:38:10] Berhasil menyimpan tanggal 2025-07-19, affected rows: 1
+[2025-07-17 05:38:10] Transaksi berhasil di-commit. Total disimpan: 2, Dilewati: 0
+[2025-07-17 05:38:10] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":2,"skipped":[]}
+[2025-07-17 05:38:10] Proses selesai
+[2025-08-17 19:46:29] Memulai proses penyimpanan data booking
+[2025-08-17 19:46:29] Data JSON diterima: {"product_id":201,"booked_by":"ramitaaaa","dates":["2025-08-26","2025-08-27","2025-08-28"]}
+[2025-08-17 19:46:29] Data yang akan diproses - Product ID: 201, Booked By: ramitaaaa, Dates: 2025-08-26, 2025-08-27, 2025-08-28
+[2025-08-17 19:46:29] Verifikasi produk berhasil
+[2025-08-17 19:46:29] Transaksi database dimulai
+[2025-08-17 19:46:29] Mencoba menyimpan tanggal: 2025-08-26
+[2025-08-17 19:46:29] Berhasil menyimpan tanggal 2025-08-26, affected rows: 1
+[2025-08-17 19:46:29] Mencoba menyimpan tanggal: 2025-08-27
+[2025-08-17 19:46:29] Berhasil menyimpan tanggal 2025-08-27, affected rows: 1
+[2025-08-17 19:46:29] Mencoba menyimpan tanggal: 2025-08-28
+[2025-08-17 19:46:29] Berhasil menyimpan tanggal 2025-08-28, affected rows: 1
+[2025-08-17 19:46:29] Transaksi berhasil di-commit. Total disimpan: 3, Dilewati: 0
+[2025-08-17 19:46:29] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":3,"skipped":[]}
+[2025-08-17 19:46:29] Proses selesai
+[2025-11-14 15:36:22] Memulai proses penyimpanan data booking
+[2025-11-14 15:36:22] Data JSON diterima: {"product_id":220,"booked_by":"kesya","dates":["2025-11-21","2025-11-22"]}
+[2025-11-14 15:36:22] Data yang akan diproses - Product ID: 220, Booked By: kesya, Dates: 2025-11-21, 2025-11-22
+[2025-11-14 15:36:22] Verifikasi produk berhasil
+[2025-11-14 15:36:22] Transaksi database dimulai
+[2025-11-14 15:36:22] Mencoba menyimpan tanggal: 2025-11-21
+[2025-11-14 15:36:22] Berhasil menyimpan tanggal 2025-11-21, affected rows: 1
+[2025-11-14 15:36:22] Mencoba menyimpan tanggal: 2025-11-22
+[2025-11-14 15:36:22] Berhasil menyimpan tanggal 2025-11-22, affected rows: 1
+[2025-11-14 15:36:22] Transaksi berhasil di-commit. Total disimpan: 2, Dilewati: 0
+[2025-11-14 15:36:22] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":2,"skipped":[]}
+[2025-11-14 15:36:22] Proses selesai
+[2025-11-14 16:08:16] Memulai proses penyimpanan data booking
+[2025-11-14 16:08:16] Data JSON diterima: {"product_id":220,"booked_by":"NAOMI","dates":["2025-11-17","2025-11-18"]}
+[2025-11-14 16:08:16] Data yang akan diproses - Product ID: 220, Booked By: NAOMI, Dates: 2025-11-17, 2025-11-18
+[2025-11-14 16:08:16] Verifikasi produk berhasil
+[2025-11-14 16:08:16] Transaksi database dimulai
+[2025-11-14 16:08:16] Mencoba menyimpan tanggal: 2025-11-17
+[2025-11-14 16:08:16] Berhasil menyimpan tanggal 2025-11-17, affected rows: 1
+[2025-11-14 16:08:16] Mencoba menyimpan tanggal: 2025-11-18
+[2025-11-14 16:08:16] Berhasil menyimpan tanggal 2025-11-18, affected rows: 1
+[2025-11-14 16:08:16] Transaksi berhasil di-commit. Total disimpan: 2, Dilewati: 0
+[2025-11-14 16:08:16] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":2,"skipped":[]}
+[2025-11-14 16:08:16] Proses selesai
+[2025-11-16 11:57:37] Memulai proses penyimpanan data booking
+[2025-11-16 11:57:37] Data JSON diterima: {"product_id":221,"booked_by":"kesya","dates":["2025-11-20","2025-11-21"]}
+[2025-11-16 11:57:37] Data yang akan diproses - Product ID: 221, Booked By: kesya, Dates: 2025-11-20, 2025-11-21
+[2025-11-16 11:57:37] Verifikasi produk berhasil
+[2025-11-16 11:57:37] Transaksi database dimulai
+[2025-11-16 11:57:37] Mencoba menyimpan tanggal: 2025-11-20
+[2025-11-16 11:57:37] Berhasil menyimpan tanggal 2025-11-20, affected rows: 1
+[2025-11-16 11:57:37] Mencoba menyimpan tanggal: 2025-11-21
+[2025-11-16 11:57:37] Berhasil menyimpan tanggal 2025-11-21, affected rows: 1
+[2025-11-16 11:57:37] Transaksi berhasil di-commit. Total disimpan: 2, Dilewati: 0
+[2025-11-16 11:57:37] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":2,"skipped":[]}
+[2025-11-16 11:57:37] Proses selesai
+[2025-11-16 12:07:50] Memulai proses penyimpanan data booking
+[2025-11-16 12:07:50] Data JSON diterima: {"product_id":221,"booked_by":"mengering","dates":["2025-11-24","2025-11-25"]}
+[2025-11-16 12:07:50] Data yang akan diproses - Product ID: 221, Booked By: mengering, Dates: 2025-11-24, 2025-11-25
+[2025-11-16 12:07:50] Verifikasi produk berhasil
+[2025-11-16 12:07:50] Transaksi database dimulai
+[2025-11-16 12:07:50] Mencoba menyimpan tanggal: 2025-11-24
+[2025-11-16 12:07:50] Berhasil menyimpan tanggal 2025-11-24, affected rows: 1
+[2025-11-16 12:07:50] Mencoba menyimpan tanggal: 2025-11-25
+[2025-11-16 12:07:50] Berhasil menyimpan tanggal 2025-11-25, affected rows: 1
+[2025-11-16 12:07:50] Transaksi berhasil di-commit. Total disimpan: 2, Dilewati: 0
+[2025-11-16 12:07:50] Response dikirim: {"status":"success","message":"Data booking berhasil disimpan","inserted":2,"skipped":[]}
+[2025-11-16 12:07:50] Proses selesai
